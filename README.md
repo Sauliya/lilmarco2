@@ -29,6 +29,7 @@
 	<a href="https://wa.me/7218004896"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
 	<a href="https://instagram.com/_lil.marco._?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>	
 
 
 
