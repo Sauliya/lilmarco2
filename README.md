@@ -5,11 +5,17 @@
 </p>
 <br>
 ## :sassy_man:  About me
+
 - :school: I am a `Junior` at Murgao education society goa,India
+- 
 - :technologist: I love Making video games On Unity
+- 
 - :computer: I am a competitive programmer
+- 
 - :student: I’m currently learning: `Computer Application` and `Unity`.
+- 
 - :thinking: I’m currently open for: `An Intern`
+- 
 - :nerd_face: Always `learning new things`
 
 <br>
