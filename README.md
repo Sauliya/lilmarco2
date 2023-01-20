@@ -1,19 +1,19 @@
 <h1 align="center">Hi , I'm SAULIYA KHAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 	<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BCA+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=De Montfort+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
 
  :sassy_man:  About me
 
-- :school: I am a `Junior` at Murgao education society goa,India
+- :school: I am a `Junior` at De Montfor University Leicester,United Kingdom
 - 
 - :technologist: I love Making video games On Unity
 - 
 - :computer: I am a competitive programmer
 - 
-- :student: I’m currently learning: `Computer Application` and `Unity`.
+- :student: I’m currently learning: `Computer Games Programming` and `Unity`.
 - 
 - :thinking: I’m currently open for: `An Intern`
 - 
@@ -82,8 +82,6 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
